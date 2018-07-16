@@ -26,6 +26,7 @@ public class GoogleSearch {
 		
 		//close and quit
 		driver.quit();
+		
 
 	}
 
